@@ -8,17 +8,18 @@ Kurulum Adımları
 Proje Dizini:
 Command ekranında proje klasörüne gidin:
 
-bash 
+bash:
 cd DockerWebApi
+
 Docker Compose ile Projeyi Çalıştırma:
 Aşağıdaki komutu çalıştırarak projeyi build edin ve çalıştırın:
 
-bash 
+bash:
 docker-compose up --build
 API'ye Erişim:
 Uygulama çalıştırıldıktan sonra, aşağıdaki URL üzerinden Web API'ye istek atabilirsiniz:
 
-bash 
+
 http://localhost:8080/api/Service/users
 Örnek Çıktı
 Yukarıdaki API'ye yapılan istek sonucunda aşağıdaki gibi bir JSON çıktısı almanız beklenir:
