@@ -1,0 +1,11 @@
+C:\Git\DockerWebApi\src\DockerLibrary\bin\Debug\net8.0\DockerLibrary.deps.json
+C:\Git\DockerWebApi\src\DockerLibrary\bin\Debug\net8.0\DockerLibrary.dll
+C:\Git\DockerWebApi\src\DockerLibrary\bin\Debug\net8.0\DockerLibrary.pdb
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\DockerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\DockerLibrary.AssemblyInfoInputs.cache
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\DockerLibrary.AssemblyInfo.cs
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\DockerLibrary.csproj.CoreCompileInputs.cache
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\DockerLibrary.dll
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\refint\DockerLibrary.dll
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\DockerLibrary.pdb
+C:\Git\DockerWebApi\src\DockerLibrary\obj\Debug\net8.0\ref\DockerLibrary.dll

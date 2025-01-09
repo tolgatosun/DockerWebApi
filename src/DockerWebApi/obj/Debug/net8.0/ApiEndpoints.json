@@ -1,0 +1,53 @@
+[
+  {
+    "ContainingType": "DockerWebApi.Controllers.ServiceController",
+    "Method": "GetOrders",
+    "RelativePath": "api/Service/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DockerWebApi.Controllers.ServiceController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Service/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DockerWebApi.Controllers.ServiceController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Service/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DockerWebApi.Controllers.ServiceController",
+    "Method": "GetWeather",
+    "RelativePath": "api/Service/weather",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DockerWebApi.WeatherForecast, DockerWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
