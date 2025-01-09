@@ -8,38 +8,21 @@ Kurulum Adımları
 Proje Dizini:
 Command ekranında proje klasörüne gidin:
 
-bash
-Kodu kopyala
+bash 
 cd DockerWebApi
 Docker Compose ile Projeyi Çalıştırma:
 Aşağıdaki komutu çalıştırarak projeyi build edin ve çalıştırın:
 
-bash
-Kodu kopyala
+bash 
 docker-compose up --build
 API'ye Erişim:
 Uygulama çalıştırıldıktan sonra, aşağıdaki URL üzerinden Web API'ye istek atabilirsiniz:
 
-bash
-Kodu kopyala
+bash 
 http://localhost:8080/api/Service/users
 Örnek Çıktı
 Yukarıdaki API'ye yapılan istek sonucunda aşağıdaki gibi bir JSON çıktısı almanız beklenir:
-
-json
-Kodu kopyala
-[
-    {
-        "id": 1,
-        "name": "John Doe",
-        "email": "john.doe@example.com"
-    },
-    {
-        "id": 2,
-        "name": "Jane Smith",
-        "email": "jane.smith@example.com"
-    }
-]
+ 
 Genel Bilgilendirme
 Bu proje, Nginx ile bir ters proxy yapılandırması kullanılarak, yüksek performanslı ve ölçeklenebilir bir şekilde konteyner ortamında çalıştırılacak şekilde tasarlanmıştır. Projede kullanılan mimari, hem Web API uygulaması hem de ona bağlı library projesinin uyumlu bir şekilde bir arada çalışmasını sağlamaktadır.
 
